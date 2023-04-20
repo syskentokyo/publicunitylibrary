@@ -9,7 +9,7 @@ Unity用の公開ライブラリ一覧
 | Unityを始めてきたときになにか処理を挟むことができるEditor拡張 | https://github.com/syskentokyo/unityfirstwindow |
 | Unityのフォルダ構成のテンプレート | https://github.com/syskentokyo/UnityAssetsFolderTemplate |
 | UnityのReadMeのテンプレート | https://github.com/syskentokyo/UnityReadmeTemplate |
-|  |  |
+| 使用しているライブラリのライセンス管理し、一覧作成できる | https://github.com/syskentokyo/unitylicensemaster |
 |  |  |
 |  |  |
 |  |  |
