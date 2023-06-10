@@ -5,13 +5,7 @@ Unity用の公開ライブラリ一覧
 ## ベース
 | 目的 | リンク |
 ----|---- 
-| 保存してある画像ファイルをリサイズするよ。フォトグラのモデルを使うとき便利 | https://github.com/syskentokyo/unityimageresize |
-| Unityを始めてきたときになにか処理を挟むことができるEditor拡張 | https://github.com/syskentokyo/unityfirstwindow |
-| Unityのフォルダ構成のテンプレート | https://github.com/syskentokyo/UnityAssetsFolderTemplate |
-| UnityのReadMeのテンプレート | https://github.com/syskentokyo/UnityReadmeTemplate |
-| 使用しているライブラリのライセンス管理し、一覧作成できる | https://github.com/syskentokyo/unitylicensemaster |
-|  |  |
-|  |  |
+| Unityのレイヤー設定など、基本的な設定を自動化できます | https://github.com/syskentokyo/unitybaseproject |
 |  |  |
 |  |  |
 |  |  |
@@ -24,9 +18,10 @@ Unity用の公開ライブラリ一覧
 | ビルド時に自動で設定を変えたりするEditor拡張。開発とリリースの設定をかんたんに切り替えできる | https://github.com/syskentokyo/unitybuildsceneutil |
 | シンプルな機能の集合体。スリープさせないとか | https://github.com/syskentokyo/unitysimpleutility |
 | 画像や音楽、映像をインポートしたときに、最低限の設定を行ってくれるEditor拡張 | https://github.com/syskentokyo/unityautoformatconfig |
-|  |  |
-|  |  |
-|  |  |
+| 使用しているライブラリのライセンス管理し、一覧作成できる | https://github.com/syskentokyo/unitylicensemaster |
+| 保存してある画像ファイルをリサイズするよ。フォトグラのモデルを使うとき便利 | https://github.com/syskentokyo/unityimageresize |
+| Unityを始めてきたときになにか処理を挟むことができるEditor拡張 | https://github.com/syskentokyo/unityfirstwindow |
+| UnityのReadMeのテンプレート | https://github.com/syskentokyo/UnityReadmeTemplate |
 |  |  |
 |  |  |
 |  |  |
