@@ -2,12 +2,11 @@
 Unity用の公開ライブラリ一覧
 
 
-## ベース
+## 一般用途
 | 目的 | リンク |
 ----|---- 
 | ~~Unityのレイヤー設定など、基本的な設定を自動化できます~~ | ~~https://github.com/syskentokyo/unitybaseproject~~ |
-|  |  |
-|  |  |
+| UnityのReadMeのテンプレート | https://github.com/syskentokyo/UnityReadmeTemplate |
 |  |  |
 |  |  |
 
@@ -20,8 +19,6 @@ Unity用の公開ライブラリ一覧
 | 画像や音楽、映像をインポートしたときに、最低限の設定を行ってくれるEditor拡張 | https://github.com/syskentokyo/unityautoformatconfig |
 | 使用しているライブラリのライセンス管理し、一覧作成できる | https://github.com/syskentokyo/unitylicensemaster |
 | 保存してある画像ファイルをリサイズするよ。フォトグラのモデルを使うとき便利 | https://github.com/syskentokyo/unityimageresize |
-| Unityを始めてきたときになにか処理を挟むことができるEditor拡張 | https://github.com/syskentokyo/unityfirstwindow |
-| UnityのReadMeのテンプレート | https://github.com/syskentokyo/UnityReadmeTemplate |
 | アプリの静的な設定ファイルの定義 | https://github.com/syskentokyo/unityappconfig |
 |  |  |
 |  |  |
@@ -51,3 +48,11 @@ Unity用の公開ライブラリ一覧
 |  |  |
 |  |  |
 |  |  |
+
+
+# なにかライブラリつくるときに便利なテンプレ、サンプルなど
+| 目的 | リンク |
+----|---- 
+| Unityを始めてきたときになにか処理を挟むことができるEditor拡張 | https://github.com/syskentokyo/unityfirstwindow |
+
+
