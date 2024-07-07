@@ -5,7 +5,7 @@ Unity用の公開ライブラリ一覧
 ## ベース
 | 目的 | リンク |
 ----|---- 
-| Unityのレイヤー設定など、基本的な設定を自動化できます | https://github.com/syskentokyo/unitybaseproject |
+| ~~Unityのレイヤー設定など、基本的な設定を自動化できます~~ | ~~https://github.com/syskentokyo/unitybaseproject~~ |
 |  |  |
 |  |  |
 |  |  |
