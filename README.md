@@ -22,7 +22,7 @@ Unity用の公開ライブラリ一覧
 | 保存してある画像ファイルをリサイズするよ。フォトグラのモデルを使うとき便利 | https://github.com/syskentokyo/unityimageresize |
 | Unityを始めてきたときになにか処理を挟むことができるEditor拡張 | https://github.com/syskentokyo/unityfirstwindow |
 | UnityのReadMeのテンプレート | https://github.com/syskentokyo/UnityReadmeTemplate |
-|  |  |
+| アプリの静的な設定ファイルの定義 | https://github.com/syskentokyo/unityappconfig |
 |  |  |
 |  |  |
 |  |  |
