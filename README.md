@@ -14,7 +14,7 @@ Unity用の公開ライブラリ一覧
 ## プラットフォーム共通
 | 目的 | リンク |
 ----|---- 
-| ビルド時に自動で設定を変えたりするEditor拡張。開発とリリースの設定をかんたんに切り替えできる | https://github.com/syskentokyo/unitybuildsceneutil |
+| ~~ビルド時に自動で設定を変えたりするEditor拡張。開発とリリースの設定をかんたんに切り替えできる~~ | ~~https://github.com/syskentokyo/unitybuildsceneutil~~ |
 | シンプルな機能の集合体。スリープさせないとか | https://github.com/syskentokyo/unitysimpleutility |
 | 画像や音楽、映像をインポートしたときに、最低限の設定を行ってくれるEditor拡張 | https://github.com/syskentokyo/unityautoformatconfig |
 | 使用しているライブラリのライセンス管理し、一覧作成できる | https://github.com/syskentokyo/unitylicensemaster |
