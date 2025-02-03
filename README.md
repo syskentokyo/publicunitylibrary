@@ -22,7 +22,7 @@ Unity用の公開ライブラリ一覧
 | アプリの静的な設定ファイルの定義 | https://github.com/syskentokyo/unityappconfig |
 | Unity初期設定を行います | https://github.com/syskentokyo/unitymysetup |
 | シーンを１回の操作で開けるEditor拡張 | https://github.com/syskentokyo/unitysceneopenshortcut |
-|  |  |
+| ビルド時にシーンから指定したオブジェクトを消せるライブラリ | https://github.com/syskentokyo/unityautodeleteonbuild |
 
 ## iOS
 | 目的 | リンク |
