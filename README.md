@@ -27,7 +27,7 @@ Unity用の公開ライブラリ一覧
 ## iOS
 | 目的 | リンク |
 ----|---- 
-| iOS用：bitcodeをオフにしたり、細かい機能のライブラリ  | https://github.com/syskentokyo/unityutilforios |
+| iOS用：bitcodeをオフにしたり、細かい機能のライブラリ  |  |
 |  |  |
 |  |  |
 |  |  |
