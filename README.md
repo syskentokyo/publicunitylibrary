@@ -24,10 +24,10 @@ Unity用の公開ライブラリ一覧
 | シーンを１回の操作で開けるEditor拡張 | https://github.com/syskentokyo/unitysceneopenshortcut |
 | ビルド時にシーンから指定したオブジェクトを消せるライブラリ | https://github.com/syskentokyo/unityautodeleteonbuild |
 
-## iOS
+## iOS,Android
 | 目的 | リンク |
 ----|---- 
-| iOS用：bitcodeをオフにしたり、細かい機能のライブラリ  |  |
+| iOS,Android用：細かい機能のライブラリ  | https://github.com/syskentokyo/unitystmobileutilv2?tab=readme-ov-file |
 |  |  |
 |  |  |
 |  |  |
@@ -37,17 +37,6 @@ Unity用の公開ライブラリ一覧
 |  |  |
 
 
-## Android
-| 目的 | リンク |
-----|---- 
-| Android用：Unity上でWIFI経由でAndroidへ接続設定ができたり、細かい機能のライブラリ  |  https://github.com/syskentokyo/unityutilforandroid |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
 
 
 # なにかライブラリつくるときに便利なテンプレ、サンプルなど
